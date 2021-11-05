@@ -66,7 +66,7 @@ void quicksort(int *nums, int l, int r)
 
 void _start()
 {
-    int nums[] = {5, 7, 3, 1, 9, 2, 4, 0, 1, 8};
+    int nums[] = {4, 3, 2, 5, 6, 7, 4, 1, 8, 0};
     int n = 10;
 
     print_str(0);
